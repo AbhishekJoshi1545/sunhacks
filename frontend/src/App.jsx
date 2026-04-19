@@ -1,10 +1,10 @@
-import React from 'react'
-import ChatWindow from './components/ChatWindow'
+import React from 'react';
+import Layout from './components/Layout';
 
 function App() {
   return (
-    <ChatWindow />
-  )
+    <Layout />
+  );
 }
 
-export default App
+export default App;
